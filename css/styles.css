@@ -1,0 +1,44 @@
+body {
+  background-color: #CFD2CF;
+  }
+
+h1 {
+  color: #F29393;
+
+}
+
+h3 {
+  color: #F29393;
+
+}
+
+p {
+  color: #2B4865;
+}
+
+ul {
+  color: #2B4865;
+}
+
+ol {
+  color: #2B4865;
+}
+
+tr {
+  color: #2B4865;
+
+}
+
+label {
+  color: #2B4865;
+}
+
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 50%;
+  border-color: #F29393;
+  border-width: 10px;
+}
